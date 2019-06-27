@@ -24,8 +24,8 @@ Generally speaking, you will be asked to come up with a data science problem. He
 
 For this project, you'll have two provided datasets:
 
-- [Traffic Accidents and Casualties by Region](./data/saudi-arabia-traffic-accidents-and-casualties-injured-dead-2008.csv)
-- [Driving Licenses Issued By Administrative Area](./data/saudi-arabia-driving-licenses-issued-in-the-kingdom-2004-2008.csv)
+- [Traffic Accidents and Casualties by Region](/data/saudi-arabia-traffic-accidents-and-casualties-injured-dead-2008.csv)
+- [Driving Licenses Issued By Administrative Area](/data/saudi-arabia-driving-licenses-issued-in-the-kingdom-2004-2008.csv)
 
 You can see the source for the accident data [here](https://datasource.kapsarc.org/explore/dataset/saudi-arabia-traffic-accidents-and-casualties-injured-dead-2008/), and the source for the license data [here](https://datasource.kapsarc.org/explore/dataset/saudi-arabia-traffic-accidents-and-casualties-injured-dead-2008/). **Make sure you cross-reference your data with your data sources to eliminate any data collection or data entry issues.**
 
@@ -93,7 +93,7 @@ Your local instructor will evaluate your project (for the most part) using the f
 | **1** | *Project close to meeting expectations; many minor issues or a few major issues.* |
 | **2** | *Project meets expectations; few (and relatively minor) mistakes.* |
 | **3** | *Project demonstrates a thorough understanding of all of the considerations outlined.* |
-    
+
 **Project Organization**
 - Are modules imported correctly (using appropriate aliases)?
 - Are data imported/saved using relative paths?
@@ -138,7 +138,7 @@ Your local instructor will evaluate your project (for the most part) using the f
 **Research and Conceptual Understanding**
 - Were useful insights gathered from outside sources?
 - Are sources clearly identified?
-- Does the student provide appropriate interpretation with regards to descriptive and inferential statistics? 
+- Does the student provide appropriate interpretation with regards to descriptive and inferential statistics?
 
 
 ### REMEMBER:
